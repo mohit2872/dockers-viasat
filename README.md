@@ -11,6 +11,27 @@ I wanted to work in backend side more, especially deployment side. The problem s
 3. Learnt to not overestimate myself and try to be more systematic in future.
 
 ## Major command used
- 
-Docker build command 
+Docker build command:
+
 `docker build name_of_container:latest .`
+
+
+Docker network setup:
+
+`docker network create --subnet=172.18.0.0/16 mynet123`
+
+
+Docker run command:
+
+`docker run --net mynet123 --ip 172.18.0.8 -p 5000:5000 name_of_container`
+
+
+Docker exec command:
+
+`docker exec -it name_of_container /bin/bash`
+
+
+## Work which could have been done
+
+1. I assigned IP address of the PostgreSQL server as a hard coded value. It could have been handled more elegantly with the help of service registry.
+2. I could have learnt Kubernetes as well.
