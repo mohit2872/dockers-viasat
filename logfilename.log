@@ -1,0 +1,27 @@
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [17/Jun/2019 20:28:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/mohit/Desktop/Viasat/dockers-viasat/app.py', reloading
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:19:59] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:05] "GET / HTTP/1.1" 200 -
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:10] "GET /hello HTTP/1.1" 200 -
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:12] "GET /hello HTTP/1.1" 200 -
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:13] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:27] "GET /helllo HTTP/1.1" 404 -
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:20:31] "GET /hello HTTP/1.1" 200 -
+INFO:root:IP Address of docker of flask web server is: 127.0.1.1
+INFO:root:Flask Web Server is connected to PostgreSQL server in docker at IP address: 172.17.0.2
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 13:21:36] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jun/2019 15:43:25] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/mohit/Desktop/Viasat/dockers-viasat/app.py', reloading
