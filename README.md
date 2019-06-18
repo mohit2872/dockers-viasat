@@ -35,3 +35,4 @@ Docker exec command:
 
 1. I assigned IP address of the PostgreSQL server as a hard coded value. It could have been handled more elegantly with the help of service registry.
 2. I could have learnt Kubernetes as well.
+3. Make logs and store the IP address of both the docker containers.
