@@ -26,6 +26,16 @@ Docker run command:
 `docker run --net mynet123 --ip 172.18.0.8 -p 5000:5000 name_of_container`
 
 
+Docker pulling PostgreSQL image:
+
+`docker run --rm   --name pg-docker -e POSTGRES_PASSWORD=docker -d -p 5432:5432 -v $HOME/docker/volumes/postgres:/var/lib/postgresql/data  postgres`
+
+
+Docker linking the network to a network:
+
+`docker network connect [OPTIONS] NETWORK CONTAINER`
+
+
 Docker exec command:
 
 `docker exec -it name_of_container /bin/bash`
